@@ -151,7 +151,7 @@ nav.sticky .menu-btn{
 }
  .home-content{
   
-  margin-left: 15%;
+  margin-left: 10%;
   margin-top: 0%;
   margin-bottom: 90px;
   display: flex;
@@ -248,7 +248,7 @@ section .title span::after{
   width: 45%;
 }
 .about .left img{
-  height: 350px;
+  height: 358px;
   width: 300px;
   object-fit:fill;
   border-radius: 10px;
@@ -537,7 +537,7 @@ footer .text span a:hover{
 @media (max-width: 500px){
   .home .text-two{
     font-size: 50px;
-    display: flex;
+     
   }
   .home .text-three{
     font-size: 33px;
