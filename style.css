@@ -119,36 +119,15 @@ nav.sticky .menu-btn{
   bottom: 0;
  
   width:50%;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+    display: flex;
+  
+   
   font-family: 'Ubuntu', sans-serif;
 }
-.imge {
-  width: 45%;
-  height: 70%;
-   
-  position: absolute;
-  bottom: 0px;
-  right: 100px;
-}
+ 
  
   
-.imge img{
-  height: 80%;
-  position: absolute;
-
-  left: 90%;
-  bottom: 0px;
-  transform: translateX(-60%);
-  transition: bottom 1s, left 1s;
-}
-.imge:hover .shape{
-  bottom: 40px;
-}
-.imge:hover .vi1{
-  left: 65%;
-}
+ 
  .home-content{
   
   margin-left: 10%;
