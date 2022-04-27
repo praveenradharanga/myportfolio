@@ -248,7 +248,7 @@ section .title span::after{
   width: 45%;
 }
 .about .left img{
-  height: 350px;
+  height: 360px;
   width: 300px;
   object-fit:fill;
   border-radius: 10px;
@@ -317,7 +317,7 @@ section .button button:hover{
 }
 .skills-details .experience .num{
   color: #0E2431;
-  font-size: 20px;
+  font-size: 12px;
 }
 .skills-details .experience .exp{
   color: #0E2431;
