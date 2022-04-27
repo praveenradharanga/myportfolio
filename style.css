@@ -82,7 +82,7 @@ nav.sticky .menu a:hover{
   margin: 0 6px;
 }
 .media-icons{
-  color: #4070f4;
+   
   list-style: none;
   margin-left: 0%;
   padding: 10px 0;
@@ -317,12 +317,12 @@ section .button button:hover{
 }
 .skills-details .experience .num{
   color: #0E2431;
-  font-size: 30px;
+  font-size: 20px;
 }
 .skills-details .experience .exp{
   color: #0E2431;
   margin-left: 20px;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 500;
   margin: 0 6px;
 }
