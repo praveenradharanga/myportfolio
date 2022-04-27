@@ -412,12 +412,12 @@ footer{
   font-family: 'Poppins', sans-serif;
 }
 footer .text span{
-  font-size: 17px;
-  font-weight: 400;
+  font-size: 7px;
+  font-weight: 200;
   color: #fff;
 }
 footer .text span a{
-  font-weight: 500;
+  font-weight: 200;
   color: #FFF;
 }
 footer .text span a:hover{
