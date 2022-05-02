@@ -154,7 +154,8 @@ nav.sticky .menu-btn{
   margin-top: 0%;
   margin-bottom: 90px;
   display: flex;
-   flex-direction: column;
+  flex-direction: column;
+  justify-content: center;
   
  
 }
