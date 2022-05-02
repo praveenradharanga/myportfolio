@@ -150,12 +150,12 @@ nav.sticky .menu-btn{
 }
  .home-content{
   
-  margin-left: 90%;
+  margin-left: 15%;
   margin-top: 0%;
   margin-bottom: 90px;
   display: flex;
- /* flex-direction: column;*/
-  justify-content: center;
+   flex-direction: column;
+  
  
 }
 .home .text-one{
@@ -466,7 +466,7 @@ footer .text span a:hover{
 @media (max-width: 900px) {
   .about .left img{
     height: 350px;
-    width: 350px;
+    width: 300px;
   }
 }
 
