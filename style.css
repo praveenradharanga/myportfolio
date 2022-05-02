@@ -150,11 +150,11 @@ nav.sticky .menu-btn{
 }
  .home-content{
   
-  margin-left: 15%;
+  margin-left: 90%;
   margin-top: 0%;
   margin-bottom: 90px;
   display: flex;
-  flex-direction: column;
+ /* flex-direction: column;*/
   justify-content: center;
   
  
